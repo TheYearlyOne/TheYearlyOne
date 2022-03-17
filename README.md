@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python And Game Devolopment
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram __TheYearly__ or theyearlone@gmail.com
+- 📫 How to reach me instagram @_TheYearly_ or theyearlone@gmail.com
 
 <!---
 TheYearlyOne/TheYearlyOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
